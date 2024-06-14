@@ -132,7 +132,7 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: 20,
     paddingTop: 20,
-    width: "100%", // Light mode background color
+    width: "100%", 
   },
   input: {
     width: "100%",
@@ -141,7 +141,7 @@ const styles = StyleSheet.create({
     textAlign: "right",
     color: "black",
     fontWeight: "500",
-    backgroundColor: "#e6e6e6", // Light mode input background color
+    backgroundColor: "#e6e6e6", 
     borderRadius: 10,
   },
   buttonContainer: {
