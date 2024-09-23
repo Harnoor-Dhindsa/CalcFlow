@@ -7,6 +7,8 @@
 4. **Language-use:** React Native
 5. **Platform:** Android & IOS
 
+<img src="https://github.com/user-attachments/assets/edd68235-2c9c-4d33-955f-84b5f5da9734" width="50">
+
 # Photos & Video
 ![IMG_5380](https://github.com/user-attachments/assets/edd68235-2c9c-4d33-955f-84b5f5da9734)
 
