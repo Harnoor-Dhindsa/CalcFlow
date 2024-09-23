@@ -7,16 +7,14 @@
 4. **Language-use:** React Native
 5. **Platform:** Android & IOS
 
-<img src="https://github.com/user-attachments/assets/edd68235-2c9c-4d33-955f-84b5f5da9734" width="50">
-
 # Photos & Video
-![IMG_5380](https://github.com/user-attachments/assets/edd68235-2c9c-4d33-955f-84b5f5da9734)
+<img src="https://github.com/user-attachments/assets/edd68235-2c9c-4d33-955f-84b5f5da9734" width="250">
 
-![IMG_5379](https://github.com/user-attachments/assets/24ce93d9-836a-4aae-ac63-0fd1ea83b5ed)
+<img src="https://github.com/user-attachments/assets/24ce93d9-836a-4aae-ac63-0fd1ea83b5ed" width="250">
 
-![IMG_5378](https://github.com/user-attachments/assets/2d70352b-3f01-424c-a4ff-04e2a0649989)
+<img src="https://github.com/user-attachments/assets/2d70352b-3f01-424c-a4ff-04e2a0649989" width="250">
 
-![IMG_5377](https://github.com/user-attachments/assets/52dea606-76f7-404c-ae49-842d8b702295)
+<img src="https://github.com/user-attachments/assets/52dea606-76f7-404c-ae49-842d8b702295" width="250">
 
-![ScreenRecording_09-22-2024 18-31-03_1](https://github.com/user-attachments/assets/ed904e9f-8267-44e4-bee8-cc1b8b23b112)
+<img src="https://github.com/user-attachments/assets/ed904e9f-8267-44e4-bee8-cc1b8b23b112" width="250">
 
